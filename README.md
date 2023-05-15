@@ -1,5 +1,5 @@
 # The Apostolic Church-Ghana (Accra Newtown)
-
+<img>
 <h>Welcome to the Tac Bethel 
 Assembly</h>
 <p>Motto for 2023-(John8:31b-32)</p>
@@ -28,7 +28,7 @@ Assembly</h>
 <p>-Remember that not all this activities take place in during the week so we will give you updates when it will take place, and this may be as a results of an accident but apart from this it take place always.
 
 Church Services
-<p>•Evangelism:<i> Envangelism is the act of winning soul for christ by preaching the gospel to those who do not know it.</i><click me>
+<p>•Evangelism:<i> Envangelism is the act of winning soul for christ by preaching the gospel to those who do not know it.<i><click me</i>
  <a href="pages/about evangelism.html">about</a>
 <p>•
       
