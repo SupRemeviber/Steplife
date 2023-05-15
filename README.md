@@ -25,7 +25,7 @@ Assembly</h>
 <i>Fridays</i>:
   
  
-<p>-Remember that not all this activities take place in during the week so we will give you updates when it will take place, and this may be as a results of an accident but apart from this it take place always.
+<p>-Remember that not all this activities take place  during the week so we will give you updates when it will take place, and this may be as a results of an accident but apart from this it take place always.
 
 Church Services
 <p>•Evangelism:<i> Envangelism is the act of winning soul for christ by preaching the gospel to those who do not know it.<i><click me</i>
