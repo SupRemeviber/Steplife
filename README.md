@@ -5,5 +5,6 @@
   <lang="en">
   <p>  <b>If ye continue in my word then ye are my disciples indeed and ye shall know the truth and the truth shall make you free
   <lang="tw">
-    <p>John8:31b-32.
+    <p>If ye continue in my word the ye are my disciples indeed and ye shall know the truth and the truth shall make you free
+      
       
