@@ -1,5 +1,5 @@
 # The Apostolic Church-Ghana (Accra Newtown)
-<img>
+
 <h>Welcome to the Tac Bethel 
 Assembly</h>
 <p>Motto for 2023-(John8:31b-32)</p>
